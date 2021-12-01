@@ -9,7 +9,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![React1](https://img.shields.io/badge/React2-blue?style=flat-square&logo=React3&logoColor=auto)]
-
+[![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=React&logoColor=로고색)](관련된 내 링크)
 <!--
 **ikgyun/ikgyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
