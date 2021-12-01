@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FFD159&height=300&section=header&text=🌱익균%20CODE%20RECORD🌱&fontSize=60)
-![header](https://capsule-render.vercel.app/api?type=wave&color=#F4BBBB&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌱익균%20CODE%20RECORD🌱&fontSize=60)
 
 ### Hi there 👋
 
