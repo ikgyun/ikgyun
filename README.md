@@ -10,13 +10,11 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 
-![Blogger](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)  https://ig888.tistory.com/
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)  jywy33@gmail.com
 
-My Blog    https://ig888.tistory.com/
+⚡ My Blog : https://ig888.tistory.com/
 
-My Email   jywy33@gmail.com
+💬 My Email : jywy33@gmail.com
 
 
 
