@@ -14,9 +14,9 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) :  jywy33@gmail.com
 
-My Blog  :  https://ig888.tistory.com/
+My Blog    https://ig888.tistory.com/
 
-My Email :  jywy33@gmail.com
+My Email   jywy33@gmail.com
 
 
 
